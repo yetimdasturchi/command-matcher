@@ -13,6 +13,12 @@ Command finder for smart-home–style projects. It exposes a small C API in a sh
 - Provides a **Java JNI interface** for Android/Java projects  
 - Optional **Python** and **PHP-FFI** wrappers for scripting/quick integration 
 
+## Supporting author
+
+- [tirikchilik](https://tirikchilik.uz/yetimdasturchi)
+- [buymeacoffee](https://www.buymeacoffee.com/yetimdasturchi)
+- [github](https://github.com/sponsors/yetimdasturchi)
+
 ## Requirements
 
 ### Linux
